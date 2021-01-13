@@ -1,7 +1,7 @@
 import pytest
 
 def test_one_plus_one():
-    assert 1 + 1 == 2
+    assert 1 + 1 == 0
 
 def test_one_plus_two():
     a = 1
